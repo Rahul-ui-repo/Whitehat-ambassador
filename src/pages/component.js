@@ -80,7 +80,7 @@ class MyComponent extends React.Component {
             <div>
                 {!isLogin &&
                     <div>
-                        <h1 style={{ textAlign: "center" }} className="mt-2"> Welcome to WhiteHat Ambassadors</h1>
+                        <h1 style={{ textAlign: "center" }} className="mt-2"> Welcome to WhiteHat Store & Ambassadors Program</h1>
                         
                         <div className="wrapper flex-column">
                             <form className="form">
